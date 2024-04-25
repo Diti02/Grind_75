@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Diti/Desktop/Grind75",
-      "program": "c:/Users/Diti/Desktop/Grind75/build/Debug/outDebug",
+      "cwd": "c:/Users/Diti/Desktop/New folder/Grind75",
+      "program": "c:/Users/Diti/Desktop/New folder/Grind75/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
